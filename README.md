@@ -12,3 +12,4 @@ Este repositorio contiene las clases del Diplomado en Big Data
    - Ejecución retrasada (lazzy) [[nbviwer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/01x_lazy_am.ipynb)
    - Mejores prácticas con ejecución retrasada [[nbviwer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/01_dask_Mejores_Practicas.ipynb)
    - Colleciones bag [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/02_bag_am.ipynb)
+   - Arrays [[Github]](https://github.com/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/03_array_am.ipynb)
