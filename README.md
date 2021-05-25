@@ -17,4 +17,5 @@ Este repositorio contiene las clases del Diplomado en Big Data
    - Colleciones bag [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/02_bag_am.ipynb)
    - Arrays [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/03_array_am.ipynb)
    - Dataframes [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/04_dataframe_am.ipynb)
+  - Almacenamiento  
    - hdf5 [[Github]](https://github.com/AprendizajeProfundo/BigData/blob/main/Almacenamiento/Cuadernos/hdf5.ipynb)
