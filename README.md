@@ -2,7 +2,7 @@
 Este repositorio contiene las clases del Diplomado en Big Data
 
  - Programación Python
-   - Multiprocesos y multihilos [[Github]](https://github.com/AprendizajeProfundo/BigData/blob/main/Python/Cuadernos/05_A_Mulitprocesos_Python_am.ipynb)
+   - Multiprocesos y multihilos [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Python/Cuadernos/05_A_Mulitprocesos_Python_am.ipynb)
 
 - Bases de Datos Relacionales
   - Introducción a bases de datos [[nbviwer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_Rel_Intro.ipynb)
