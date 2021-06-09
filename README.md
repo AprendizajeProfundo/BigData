@@ -9,7 +9,9 @@ Este repositorio contiene las clases del Diplomado en Big Data
    - Modelo entidad-relación [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_Rel_Modelo_E_R.ipynb)
    - Implementación de bases de datos [[nbviewer]]( https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_Rel_Implementacion.ipynb)
    - Algebra relacional [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_Rel_Algebra_Relacional.ipynb )
-   - SQL [[sql -1]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_SQL.ipynb) [[sql -2]]()
+   - SQL I[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_SQL.ipynb) 
+   - SQL II[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_SQL-2.ipynb)
+   - SQL III -Ejemplo Sakila[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_SQL-3.ipynb)
 - Motor Dask para Big Data en Python
    - Introducción la procesamiento paralelo con Dask [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/01_dask_delayed_am.ipynb)
    - Ejecución retrasada (lazzy) [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/01x_lazy_am.ipynb)
