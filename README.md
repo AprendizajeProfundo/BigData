@@ -22,5 +22,6 @@ Este repositorio contiene las clases del Diplomado en Big Data
    - Ejecución distribuida[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/05_distributed_am.ipynb)
    - Ejecución distribuida avanzada[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/06_distributed_advanced_am.ipynb)
    - Ejecución con un cluster en la nube - Coiled[[Github]](https://github.com/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/10_coiled_quickstart.ipynb)
-   - Almacenamiento eficiente de dask-dataframes[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/07_dataframe_storage_am.ipynb)  
+   - Almacenamiento eficiente de dask-dataframes[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/07_dataframe_storage_am.ipynb)
+   - Aprendizaje de Maquinas paralelo y distribuido[[Github]]  
    - Almacenamiento hdf5 [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Almacenamiento/Cuadernos/hdf5.ipynb)
