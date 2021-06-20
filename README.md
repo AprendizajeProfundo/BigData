@@ -26,4 +26,4 @@ Este repositorio contiene las clases del Diplomado en Big Data
    - Aprendizaje de Maquinas paralelo y distribuido[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/08_machine_learning_am.ipynb)  
    - Almacenamiento hdf5 [[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Almacenamiento/Cuadernos/hdf5.ipynb)
 - Spark
- - Instalacion de Spark: Ubuntu, Jupyterlab[[Github]](https://github.com/AprendizajeProfundo/BigData/blob/main/Spark/Cuadernos/Spark_install.ipynb)
+ - Instalacion de Spark: Ubuntu, Jupyterlab[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Spark/Cuadernos/Spark_install.ipynb)
