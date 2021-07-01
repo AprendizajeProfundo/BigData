@@ -29,3 +29,4 @@ Este repositorio contiene las clases del Diplomado en Big Data
  - Instalacion de Spark: Ubuntu, Jupyterlab[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Spark/Cuadernos/Spark_install.ipynb)
  - Introducción a Spark[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Spark/Cuadernos/Spark_Introduccion.ipynb)
  - Introducción a Máquinas de Aprendizaje con Spark[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Spark/Cuadernos/Spark_Machine_Learning.ipynb)
+ - Introducción a árboles de decisión y regresión con Spark[[nbviewer]](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Spark/Cuadernos/Spark_Machine_Learning-tree.ipynb)
