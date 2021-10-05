@@ -1,5 +1,5 @@
 # BigData
-Este repositorio contiene las clases del Diplomado en Big Data
+Este repositorio contiene las clases del curso en Big Data
 
  - Programación Python
     - [Python, primeros pasos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Python.ipynb)
