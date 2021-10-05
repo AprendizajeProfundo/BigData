@@ -1,4 +1,4 @@
-# BigData
+# Big Data
 Este repositorio contiene las clases del curso en Big Data
 
  - Programación Python
