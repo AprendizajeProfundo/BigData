@@ -1,6 +1,7 @@
 # Big Data
 Este repositorio contiene las clases del curso en Big Data
-
+ - Syllabus
+  - [Syllabus, sistemas de infromación](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Syllabus/Cuadernos/Syllabus_Big%20Data.ipynb)
  - Programación Python
     - [Python, primeros pasos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Python.ipynb)
     - [Funciones en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Funciones.ipynb)
