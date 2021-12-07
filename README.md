@@ -9,6 +9,7 @@ Este repositorio contiene las clases del curso en Big Data
     - [Módulos en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Paquetes.ipynb)
     - [Concepto de Clase en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/Intro_Clases_Python.ipynb)
     - [Decoradores en Python](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%202-%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n/3.%20Programaci%C3%B3n%20en%20Python/Cuadernos/Decorators.ipynb)
+    - Introducción a Pandas [Github](ttps://github.com/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%202-%20Introducción%20a%20la%20programación/3.%20Programación%20en%20Python/Cuadernos/pandas_Intro.ipynb)
     - [Tratamiento de datos con Pandas](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/M%C3%B3dulo%2013-%20Talleres/Cuadernos/Taller_Pandas.ipynb)
     - [Introducción a tensores con Numpy](https://nbviewer.jupyter.org/github/AprendizajeProfundo/Diplomado/blob/master/Temas/Módulo%201-%20Matemáticas%20y%20Estadística/1.%20Matemáticas/Cuadernos/Intro_Tensores_I.ipynb)
    - [Multiprocesos y multihilos](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Python/Cuadernos/05_A_Mulitprocesos_Python_am.ipynb)
@@ -21,6 +22,7 @@ Este repositorio contiene las clases del curso en Big Data
    - [SQL I](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_SQL.ipynb) 
    - [SQL II](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_SQL-2.ipynb)
    - [SQL III -Ejemplo Sakila](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/Bases_Datos_SQL-3.ipynb)
+   - SQLAlchemy para consultar las bases de datos desde Python-Pandas [Github](https://github.com/AprendizajeProfundo/BigData/blob/main/Bases_Datos/Notebooks/SQLAlquimia.ipynb)
 - Motor Dask para Big Data en Python
    - [Introducción la procesamiento paralelo con Dask](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/01_dask_delayed_am.ipynb)
    - [Ejecución retrasada (lazzy)](https://nbviewer.jupyter.org/github/AprendizajeProfundo/BigData/blob/main/Dask/Cuadernos/01x_lazy_am.ipynb)
